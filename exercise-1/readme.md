@@ -4,3 +4,6 @@ The first Bash exercise:
 Write below the command used to achieve this.
 
 SOLUTION:
+```
+grep 'ERROR' log-*
+```
